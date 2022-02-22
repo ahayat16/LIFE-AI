@@ -12,7 +12,7 @@ import math
 
 from scipy.sparse import csr_matrix
 from scipy.sparse import diags
-from networkx import nx
+import networkx as nx
 
 
 def findpaths(Gtest):
