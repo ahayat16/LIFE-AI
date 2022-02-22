@@ -1,4 +1,4 @@
-# graph
+# A deep language model to predict metabolic network equilibria
 Learning properties of biological networks with transformers. Dataset of graphs corresponding to biological nets with and without equilibrium. Predict existence of equilibrium and value.
 
 
